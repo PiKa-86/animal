@@ -1,0 +1,4 @@
+3 animals could be a pet:
+1.Dogs
+2.Rabbits
+3.Cats
