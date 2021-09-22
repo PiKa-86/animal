@@ -1,0 +1,4 @@
+3 animals found  in a zoo:
+1.Lion
+2.Elephant
+3.Monkey
